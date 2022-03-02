@@ -1,1 +1,1 @@
-# jogo_de_advinhacao_ruby
+# jogo de adivinhação em ruby do curo da alura 
